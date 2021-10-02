@@ -1,5 +1,5 @@
 ## Name
-* Kai Iwasaki
+* IWASAKI Kai
 
 ## Overview
 * Collatz Conjecture in C++
